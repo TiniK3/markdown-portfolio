@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Favorite Sports Teams
+  * Arsenal FC
+  * Chicago Bulls
+  * TB Buccaneers
+  * TB Lightning
